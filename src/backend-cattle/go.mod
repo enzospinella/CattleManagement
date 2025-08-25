@@ -1,0 +1,3 @@
+module backend-cattle.com/m
+
+go 1.24.2
